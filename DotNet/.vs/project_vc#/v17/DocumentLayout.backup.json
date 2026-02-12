@@ -1,0 +1,427 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|c:\\desktop\\project-vc\\vehicle_config_c#\\project_vc#\\project_vc#\\models\\vehicledefaultconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|solutionrelative:project_vc#\\models\\vehicledefaultconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|c:\\desktop\\project-vc\\vehicle_config_c#\\project_vc#\\project_vc#\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|solutionrelative:project_vc#\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|c:\\desktop\\project-vc\\vehicle_config_c#\\project_vc#\\project_vc#\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|solutionrelative:project_vc#\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|c:\\desktop\\project-vc\\vehicle_config_c#\\project_vc#\\project_vc#\\models\\vehiclemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|solutionrelative:project_vc#\\models\\vehiclemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|c:\\desktop\\project-vc\\vehicle_config_c#\\project_vc#\\project_vc#\\services\\jwtutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|solutionrelative:project_vc#\\services\\jwtutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|c:\\desktop\\project-vc\\vehicle_config_c#\\project_vc#\\project_vc#\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|solutionrelative:project_vc#\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|c:\\desktop\\project-vc\\vehicle_config_c#\\project_vc#\\project_vc#\\models\\vehicledetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|solutionrelative:project_vc#\\models\\vehicledetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|c:\\desktop\\project-vc\\vehicle_config_c#\\project_vc#\\project_vc#\\models\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|solutionrelative:project_vc#\\models\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|c:\\desktop\\project-vc\\vehicle_config_c#\\project_vc#\\project_vc#\\models\\invoicestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|solutionrelative:project_vc#\\models\\invoicestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|c:\\desktop\\project-vc\\vehicle_config_c#\\project_vc#\\project_vc#\\dtos\\modeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|solutionrelative:project_vc#\\dtos\\modeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|c:\\desktop\\project-vc\\vehicle_config_c#\\project_vc#\\project_vc#\\dtos\\componentdropdowndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|solutionrelative:project_vc#\\dtos\\componentdropdowndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|c:\\desktop\\project-vc\\vehicle_config_c#\\project_vc#\\project_vc#\\dtos\\alternatecomponentsavedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|solutionrelative:project_vc#\\dtos\\alternatecomponentsavedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|c:\\desktop\\project-vc\\vehicle_config_c#\\project_vc#\\project_vc#\\controllers\\welcomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|solutionrelative:project_vc#\\controllers\\welcomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|c:\\desktop\\project-vc\\vehicle_config_c#\\project_vc#\\project_vc#\\dtos\\welcomeresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|solutionrelative:project_vc#\\dtos\\welcomeresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|c:\\desktop\\project-vc\\vehicle_config_c#\\project_vc#\\project_vc#\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|solutionrelative:project_vc#\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|c:\\desktop\\project-vc\\vehicle_config_c#\\project_vc#\\project_vc#\\dtos\\invoicerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|solutionrelative:project_vc#\\dtos\\invoicerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|c:\\desktop\\project-vc\\vehicle_config_c#\\project_vc#\\project_vc#\\models\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|solutionrelative:project_vc#\\models\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|c:\\desktop\\project-vc\\vehicle_config_c#\\project_vc#\\project_vc#\\services\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|solutionrelative:project_vc#\\services\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|c:\\desktop\\project-vc\\vehicle_config_c#\\project_vc#\\project_vc#\\controllers\\vehicledetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|solutionrelative:project_vc#\\controllers\\vehicledetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|c:\\desktop\\project-vc\\vehicle_config_c#\\project_vc#\\project_vc#\\utils\\pdfgeneratorutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|solutionrelative:project_vc#\\utils\\pdfgeneratorutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|c:\\desktop\\project-vc\\vehicle_config_c#\\project_vc#\\project_vc#\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|solutionrelative:project_vc#\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|c:\\desktop\\project-vc\\vehicle_config_c#\\project_vc#\\project_vc#\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|solutionrelative:project_vc#\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|c:\\desktop\\project-vc\\vehicle_config_c#\\project_vc#\\project_vc#\\services\\ijwtutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|solutionrelative:project_vc#\\services\\ijwtutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|c:\\desktop\\project-vc\\vehicle_config_c#\\project_vc#\\project_vc#\\controllers\\vehicleconfigcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC138F4-7CA7-46BD-AE47-A64ADF7B81F9}|project_vc#\\project_vc#.csproj|solutionrelative:project_vc#\\controllers\\vehicleconfigcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\appsettings.json",
+              "RelativeDocumentMoniker": "project_vc#\\appsettings.json",
+              "ToolTip": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\appsettings.json",
+              "RelativeToolTip": "project_vc#\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-09T16:19:23.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtUtil.cs",
+              "DocumentMoniker": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Services\\JwtUtil.cs",
+              "RelativeDocumentMoniker": "project_vc#\\Services\\JwtUtil.cs",
+              "ToolTip": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Services\\JwtUtil.cs",
+              "RelativeToolTip": "project_vc#\\Services\\JwtUtil.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T07:59:08.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehicleDefaultConfig.cs",
+              "DocumentMoniker": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Models\\VehicleDefaultConfig.cs",
+              "RelativeDocumentMoniker": "project_vc#\\Models\\VehicleDefaultConfig.cs",
+              "ToolTip": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Models\\VehicleDefaultConfig.cs",
+              "RelativeToolTip": "project_vc#\\Models\\VehicleDefaultConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T07:58:55.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Manufacturer.cs",
+              "DocumentMoniker": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Models\\Manufacturer.cs",
+              "RelativeDocumentMoniker": "project_vc#\\Models\\Manufacturer.cs",
+              "ToolTip": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Models\\Manufacturer.cs",
+              "RelativeToolTip": "project_vc#\\Models\\Manufacturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T07:58:50.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InvoiceStatus.cs",
+              "DocumentMoniker": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Models\\InvoiceStatus.cs",
+              "RelativeDocumentMoniker": "project_vc#\\Models\\InvoiceStatus.cs",
+              "ToolTip": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Models\\InvoiceStatus.cs",
+              "RelativeToolTip": "project_vc#\\Models\\InvoiceStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T07:58:49.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ModelDTO.cs",
+              "DocumentMoniker": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\DTOs\\ModelDTO.cs",
+              "RelativeDocumentMoniker": "project_vc#\\DTOs\\ModelDTO.cs",
+              "ToolTip": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\DTOs\\ModelDTO.cs",
+              "RelativeToolTip": "project_vc#\\DTOs\\ModelDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T07:58:47.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehicleModel.cs",
+              "DocumentMoniker": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Models\\VehicleModel.cs",
+              "RelativeDocumentMoniker": "project_vc#\\Models\\VehicleModel.cs",
+              "ToolTip": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Models\\VehicleModel.cs",
+              "RelativeToolTip": "project_vc#\\Models\\VehicleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T04:36:32.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Services\\VehicleService.cs",
+              "RelativeDocumentMoniker": "project_vc#\\Services\\VehicleService.cs",
+              "ToolTip": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Services\\VehicleService.cs",
+              "RelativeToolTip": "project_vc#\\Services\\VehicleService.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAmwLYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T12:07:10.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "project_vc#\\Services\\UserService.cs",
+              "ToolTip": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Services\\UserService.cs",
+              "RelativeToolTip": "project_vc#\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T17:16:06.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ComponentDropdownDTO.cs",
+              "DocumentMoniker": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\DTOs\\ComponentDropdownDTO.cs",
+              "RelativeDocumentMoniker": "project_vc#\\DTOs\\ComponentDropdownDTO.cs",
+              "ToolTip": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\DTOs\\ComponentDropdownDTO.cs",
+              "RelativeToolTip": "project_vc#\\DTOs\\ComponentDropdownDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T07:58:45.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VehicleDetail.cs",
+              "DocumentMoniker": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Models\\VehicleDetail.cs",
+              "RelativeDocumentMoniker": "project_vc#\\Models\\VehicleDetail.cs",
+              "ToolTip": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Models\\VehicleDetail.cs",
+              "RelativeToolTip": "project_vc#\\Models\\VehicleDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T04:36:35.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AlternateComponentSaveDTO.cs",
+              "DocumentMoniker": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\DTOs\\AlternateComponentSaveDTO.cs",
+              "RelativeDocumentMoniker": "project_vc#\\DTOs\\AlternateComponentSaveDTO.cs",
+              "ToolTip": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\DTOs\\AlternateComponentSaveDTO.cs",
+              "RelativeToolTip": "project_vc#\\DTOs\\AlternateComponentSaveDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T07:58:43.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WelcomeResponseDTO.cs",
+              "DocumentMoniker": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\DTOs\\WelcomeResponseDTO.cs",
+              "RelativeDocumentMoniker": "project_vc#\\DTOs\\WelcomeResponseDTO.cs",
+              "ToolTip": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\DTOs\\WelcomeResponseDTO.cs",
+              "RelativeToolTip": "project_vc#\\DTOs\\WelcomeResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T04:36:42.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WelcomeController.cs",
+              "DocumentMoniker": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Controllers\\WelcomeController.cs",
+              "RelativeDocumentMoniker": "project_vc#\\Controllers\\WelcomeController.cs",
+              "ToolTip": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Controllers\\WelcomeController.cs",
+              "RelativeToolTip": "project_vc#\\Controllers\\WelcomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T12:06:32.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "project_vc#\\Controllers\\InvoiceController.cs",
+              "ToolTip": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "project_vc#\\Controllers\\InvoiceController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T04:36:14.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InvoiceRequestDTO.cs",
+              "DocumentMoniker": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\DTOs\\InvoiceRequestDTO.cs",
+              "RelativeDocumentMoniker": "project_vc#\\DTOs\\InvoiceRequestDTO.cs",
+              "ToolTip": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\DTOs\\InvoiceRequestDTO.cs",
+              "RelativeToolTip": "project_vc#\\DTOs\\InvoiceRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T04:36:11.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InvoiceDetail.cs",
+              "DocumentMoniker": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Models\\InvoiceDetail.cs",
+              "RelativeDocumentMoniker": "project_vc#\\Models\\InvoiceDetail.cs",
+              "ToolTip": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Models\\InvoiceDetail.cs",
+              "RelativeToolTip": "project_vc#\\Models\\InvoiceDetail.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T04:36:06.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VehicleDetailController.cs",
+              "DocumentMoniker": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Controllers\\VehicleDetailController.cs",
+              "RelativeDocumentMoniker": "project_vc#\\Controllers\\VehicleDetailController.cs",
+              "ToolTip": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Controllers\\VehicleDetailController.cs",
+              "RelativeToolTip": "project_vc#\\Controllers\\VehicleDetailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T17:36:48.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InvoiceService.cs",
+              "DocumentMoniker": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Services\\InvoiceService.cs",
+              "RelativeDocumentMoniker": "project_vc#\\Services\\InvoiceService.cs",
+              "ToolTip": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Services\\InvoiceService.cs",
+              "RelativeToolTip": "project_vc#\\Services\\InvoiceService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwCEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T17:35:58.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IJwtUtil.cs",
+              "DocumentMoniker": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Services\\IJwtUtil.cs",
+              "RelativeDocumentMoniker": "project_vc#\\Services\\IJwtUtil.cs",
+              "ToolTip": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Services\\IJwtUtil.cs",
+              "RelativeToolTip": "project_vc#\\Services\\IJwtUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T17:36:05.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "project_vc#\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Services\\EmailService.cs",
+              "RelativeToolTip": "project_vc#\\Services\\EmailService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAmwE0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T17:36:12.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "project_vc#\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Services\\AuthService.cs",
+              "RelativeToolTip": "project_vc#\\Services\\AuthService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwCYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T17:36:21.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PdfGeneratorUtil.cs",
+              "DocumentMoniker": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Utils\\PdfGeneratorUtil.cs",
+              "RelativeDocumentMoniker": "project_vc#\\Utils\\PdfGeneratorUtil.cs",
+              "ToolTip": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Utils\\PdfGeneratorUtil.cs",
+              "RelativeToolTip": "project_vc#\\Utils\\PdfGeneratorUtil.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAmwHMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T17:36:37.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "VehicleConfigController.cs",
+              "DocumentMoniker": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Controllers\\VehicleConfigController.cs",
+              "RelativeDocumentMoniker": "project_vc#\\Controllers\\VehicleConfigController.cs",
+              "ToolTip": "C:\\Desktop\\Project-VC\\vehicle_config_c#\\project_vc#\\project_vc#\\Controllers\\VehicleConfigController.cs",
+              "RelativeToolTip": "project_vc#\\Controllers\\VehicleConfigController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwBcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T13:43:48.774Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 13,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
